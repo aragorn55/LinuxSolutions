@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=jdiskreport
+Comment=star jdisk
+Exec=<jdisk.sh %F>
+Selection=S
+Extensions=dir;
+#Quote=double
+#Terminal=true
+EscapeSpaces=true
